@@ -1,16 +1,15 @@
-class Solution(object):
-    def lengthOfLongestSubstring(self, s):
-        seen = set()      # to store unique chars in current window
-        left = 0          # left pointer of the window
-        max_len = 0
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        length = 0
+        i = 0
+        last_seen = {}
+        for j in range(len(s)):
+            if s[j] in last_seen and last_seen[s[j]]>=i:
+                i = last_seen[s[j]] + 1
+            last_seen[s[j]] = j
+            length = max(length,j-i+1)
 
-        for right in range(len(s)):
-            # if char is repeated, move left until it's unique
-            while s[right] in seen:
-                seen.remove(s[left])
-                left += 1
+        return length
 
-            seen.add(s[right])
-            max_len = max(max_len, right - left + 1)
 
-        return max_len
+
