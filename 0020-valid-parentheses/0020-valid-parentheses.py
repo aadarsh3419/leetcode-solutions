@@ -1,16 +1,15 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
-        mapping = {")": "(", "]": "[", "}": "{"}
-        
-        for char in s:
-            if char in mapping.values():  # opening brackets
-                stack.append(char)
-            elif char in mapping:  # closing brackets
-                if not stack or stack[-1] != mapping[char]:
+        pairs = {')': '(', ']': '[', '}': '{'}
+        for ch in s:
+            if ch in pairs.values():
+                stack.append(ch)
+            else:
+                if not stack:
+                    return False
+                if stack[-1]!=pairs[ch]:
                     return False
                 stack.pop()
-            else:
-                return False  # invalid character
-        
-        return not stack
+
+        return len(stack) == 0
