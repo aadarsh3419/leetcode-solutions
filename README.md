@@ -10,6 +10,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0338-counting-bits](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -19,4 +20,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
