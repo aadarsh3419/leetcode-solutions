@@ -12,15 +12,13 @@ typedef struct {
 MinStack* minStackCreate() {
     MinStack* s = malloc(sizeof(MinStack));
     s->top = -1;
-    s->size = 1000; 
+    s->size = 10; 
     s->arr = (int*)malloc (s->size * sizeof(int));
 
     return s;
 }
 
 void minStackPush(MinStack* obj, int val) {
-    if(obj->top == obj->size-1)
-       return;
     if(obj->top == obj->size-1){
         obj->size = obj->size*2;
         obj->arr = realloc(obj->arr,obj->size*sizeof(int));
