@@ -21,6 +21,11 @@ MinStack* minStackCreate() {
 void minStackPush(MinStack* obj, int val) {
     if(obj->top == obj->size-1)
        return;
+    if(obj->top == obj->size-1){
+        obj->size = obj->size*2;
+        obj->arr = realloc(obj->arr,obj->size*sizeof(int));
+    }
+       
     obj->top++;
     obj->arr[obj->top] = val; 
     
