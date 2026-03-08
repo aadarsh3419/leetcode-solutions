@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0136-single-number/) | Easy |
+| [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
