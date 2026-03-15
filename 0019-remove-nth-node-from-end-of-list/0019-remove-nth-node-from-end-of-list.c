@@ -6,19 +6,20 @@
  * };
  */
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
+    struct ListNode dummy;
+    dummy.next=head;
     struct ListNode *fast ,*slow; 
-    slow =head;
-    fast = head;
-    for(int i=0;i<=n-1;i++){
+    slow =&dummy;
+    fast = &dummy;
+    for(int i=0;i<=n;i++){
         fast = fast->next;
     }
-    if(fast == NULL){
-        return head->next;
-    }
-    while(fast->next != NULL){ 
+    while(fast!=NULL){
         fast = fast->next;
-        slow = slow->next;    
+        slow = slow->next;
+        
     }
     slow->next = slow->next->next;
-    return head;
+    return dummy.next;
+    
 }
