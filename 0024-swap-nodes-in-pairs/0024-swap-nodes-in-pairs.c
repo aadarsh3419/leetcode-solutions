@@ -12,16 +12,18 @@ struct ListNode* swapPairs(struct ListNode* head) {
     struct ListNode dummy;
     dummy.next=head;
 
-    struct ListNode* prev = &dummy;
+    struct ListNode* curr = &dummy;
 
-    while(prev->next!=NULL&& prev->next->next != NULL){
-        struct ListNode* first = prev->next;
+    while(curr->next!=NULL&&curr->next->next!=NULL){
+        struct ListNode* first = curr->next;
         struct ListNode* secound = first->next;
-        
+
         first->next = secound->next;
         secound->next = first;
-        prev->next=secound;
-        prev = first;
+        curr->next = secound;
+
+        curr=first;
+
     }
     return dummy.next;
 }
