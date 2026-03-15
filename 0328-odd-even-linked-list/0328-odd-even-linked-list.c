@@ -13,12 +13,15 @@ struct ListNode* oddEvenList(struct ListNode* head) {
     struct ListNode* evenhead = even;
 
     while(even!=NULL&&even->next!=NULL){
+        
+        
         odd->next = even->next;
-        odd = odd->next;
-
-        even->next = odd->next;
-        even = even->next;
-    }
-    odd->next =evenhead;
+        odd=odd->next;
+        even->next=odd->next;
+        even=even->next;
+        
+        }
+    odd->next=evenhead;
     return head;
+    
 }
