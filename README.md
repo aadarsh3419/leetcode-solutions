@@ -23,11 +23,13 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0338-counting-bits](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -109,5 +111,6 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
