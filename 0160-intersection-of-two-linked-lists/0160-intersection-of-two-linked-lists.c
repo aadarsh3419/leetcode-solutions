@@ -9,17 +9,19 @@ struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *he
     struct ListNode* first = headA;
     struct ListNode* secound = headB;
     while(first!=secound){
-        
-        
-        if(first==NULL)
-           first=headB;
-        else
-           first = first->next;
-        if(secound == NULL)
-           secound=headA ;
-        else
-           secound = secound->next;
-        
+        if(first == NULL){
+            first = headB;
+        }
+        else{
+            first = first->next;
+        }
+        if(secound==NULL){
+            secound = headA;
+        }
+        else{
+            secound=secound->next;
+        }
+
     }
-    return first; 
+    return first;
 }    
