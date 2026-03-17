@@ -5,36 +5,51 @@
  *     struct ListNode *next;
  * };
  */
+ struct ListNode* reverseList(struct ListNode* head) {
+    struct ListNode* current = head;
+    struct ListNode* prev = NULL;
+    while(current!=NULL){
+        struct ListNode* next = current->next;
+        current->next=prev;
+        prev = current;
+        current =next;
+    }
+    return prev;
+} 
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
-    int s1[100],s2[100];
-    int top1=-1,top2 = -1;
-    while(l1){
-        s1[++top1] = l1->val;
-        l1 = l1->next;
-    }
-    while(l2){
-        s2[++top2] = l2->val;
-        l2 = l2->next;
-    }
+    
+
+    struct ListNode dummy;
+    dummy.next = NULL;
+    struct ListNode* curr = &dummy;
+    struct ListNode* tl1 = reverseList(l1);
+    struct ListNode* tl2 =reverseList(l2);
+    
     int carry = 0;
-    struct ListNode* head = NULL;
-
-    while(top1 >= 0 || top2 >= 0 || carry){
-
+    
+    while(tl1!=NULL||tl2!=NULL||carry){
         int sum = carry;
-
-        if(top1 >= 0) sum += s1[top1--];
-        if(top2 >= 0) sum += s2[top2--];
+        
+        if(tl1!=NULL){
+            sum+=tl1->val;
+            tl1 = tl1->next;
+        }
+        if(tl2!=NULL){
+            sum+=tl2->val;
+            tl2 = tl2->next;
+        }
+        carry = sum/10;
 
         struct ListNode* node = malloc(sizeof(struct ListNode));
-        node->val = sum % 10;
-        node->next = head;
+        node->val = sum%10;
+        node->next = NULL;
 
-        head = node;
-        carry = sum / 10;
+        curr->next = node;
+        curr = curr->next;
+        
     }
-
-    return head;
+    
+    return reverseList(dummy.next);
 
     
 }
