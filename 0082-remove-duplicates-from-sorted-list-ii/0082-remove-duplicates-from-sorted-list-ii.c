@@ -20,9 +20,9 @@ struct ListNode* deleteDuplicates(struct ListNode* head) {
             int val = curr->val;
 
             while(curr!=NULL&&curr->val==val){
-                
+                struct ListNode* temp = curr;
                 curr = curr->next;
-                
+                free(temp);
             }
             prev->next = curr;
 
