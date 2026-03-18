@@ -5,36 +5,53 @@
  *     struct ListNode *next;
  * };
  */
+
+struct ListNode* reverse(struct ListNode* head){
+    struct ListNode* prev = NULL;
+    struct ListNode* curr = head;
+    while(curr!=NULL){
+        struct ListNode* next = curr->next;
+        curr->next = prev;
+        prev= curr;
+        curr = next;
+    }
+    return prev;
+}
 struct ListNode* reverseKGroup(struct ListNode* head, int k) {
-    if(head == NULL)
-      return head;
-    
     struct ListNode dummy;
     dummy.next = head;
 
-    struct ListNode* prev = &dummy;
-    while(1){
-        struct ListNode* kth = prev;
-        for(int i = 0; i < k; i++){
-            kth = kth->next;
-            if(kth==NULL)
-               return dummy.next;
+    struct ListNode* p = &dummy;
+    while(true){
+        struct ListNode* c = p;
+        for(int i=0; i<k; i++){
+            c = c->next;
+            if(c == NULL){
+                return dummy.next;
+            }
         }
-        struct ListNode* current = prev->next;
+       
+        struct ListNode* start = p->next;
+        struct ListNode* nextgroup = c->next;
 
-        for(int j = 0; j < k-1; j++){ 
-           struct ListNode* temp = current->next;
-           current->next = temp->next;
-           temp->next = prev->next; 
-           prev->next = temp; 
+        struct ListNode* prev = nextgroup;
+        struct ListNode* curr = start;
+
+        while(curr!=nextgroup){
+            struct ListNode* temp =curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = temp;
         }
-        prev = current;
-         
+
+        p->next = c;
+        p = start;
+
+        
+        
     }
-   
-             
     
-    return dummy.next;
-
+    
+   
     
 }
