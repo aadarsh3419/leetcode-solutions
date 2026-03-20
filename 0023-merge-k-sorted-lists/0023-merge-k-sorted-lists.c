@@ -13,7 +13,7 @@ struct ListNode* merge(struct ListNode* l1,struct ListNode* l2){
         return l1;
     }
     else{
-        l2->next = merge(l2->next,l1);
+        l2->next = merge(l1,l2->next);
         return l2;
     }
 
