@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0136-single-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -56,6 +57,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
