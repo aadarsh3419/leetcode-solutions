@@ -1,10 +1,11 @@
 class Solution(object):
     def twoSum(self, nums, target):
         n = len(nums)
+        mp = {}
         
         for i in range(n):
-            for j in range(i+1,n):
-                if nums[i]+nums[j] == target:
-                    return [i,j]
-       
- 
+            x=0
+            x =  target -nums[i]
+            if x in mp:
+                return [mp[x],i]
+            mp[nums[i]] = i
