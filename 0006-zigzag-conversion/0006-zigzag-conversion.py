@@ -4,7 +4,6 @@ class Solution:
             return s
         rows = [""]*numRows
         curr_row = 0
-        ans = ""
         
         step = 0
         for char in s:
@@ -14,6 +13,4 @@ class Solution:
             if curr_row == 0:
                 step = 1
             curr_row+=step
-        for i in rows:
-            ans+=i
-        return ans
+        return "".join(rows)
