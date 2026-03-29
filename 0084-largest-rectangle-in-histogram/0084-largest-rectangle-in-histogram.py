@@ -20,7 +20,5 @@ class Solution:
             left = stack[-1] if stack else -1
             width = right - left -1
             area = height*width
-            answer = max(answer,area)
-
-            
+            answer = max(answer,area)  
         return answer
