@@ -18,6 +18,7 @@
 | [0739-daily-temperatures](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0941-valid-mountain-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
