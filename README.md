@@ -146,11 +146,13 @@
 | [0155-min-stack](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0641-design-circular-deque](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0641-design-circular-deque](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0641-design-circular-deque/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +187,8 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
