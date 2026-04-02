@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0641-design-circular-deque](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0641-design-circular-deque/) | Medium |
@@ -149,6 +150,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0641-design-circular-deque](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
@@ -201,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
