@@ -1,10 +1,10 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        n = len(nums)
-        arry = []
-        for i in range(n):
+        k = 0
+        for i in range(len(nums)):
             if nums[i]!=val:
-                arry.append(nums[i])  
-        for i in range(len(arry)):
-            nums[i] = arry[i]
-        return len(arry)
+                 
+                nums[k] = nums[i]
+                k+=1
+        return k
+        
