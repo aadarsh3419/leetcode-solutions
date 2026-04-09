@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0136-single-number/) | Easy |
@@ -131,6 +132,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
