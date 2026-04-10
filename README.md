@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -56,6 +57,7 @@
 | [0007-reverse-integer](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0189-rotate-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -145,6 +147,7 @@
 | [0143-reorder-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
