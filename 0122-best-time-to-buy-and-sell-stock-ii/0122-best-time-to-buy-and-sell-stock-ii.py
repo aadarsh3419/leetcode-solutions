@@ -3,6 +3,6 @@ class Solution:
         profit = 0
         for i in range(len(prices)-1):
             if prices[i+1] > prices[i]:
-                a = abs(prices[i]-prices[i+1])
-                profit+=a
+                
+                profit+=prices[i+1]-prices[i]
         return profit
