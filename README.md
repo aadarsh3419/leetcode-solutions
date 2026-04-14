@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -202,6 +204,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
