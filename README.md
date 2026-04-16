@@ -29,6 +29,7 @@
 | [0860-lemonade-change](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0941-valid-mountain-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [0445-add-two-numbers-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,6 +213,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
