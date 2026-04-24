@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -244,6 +245,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
