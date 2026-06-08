@@ -6,9 +6,9 @@ class Solution:
         for i in nums:
             if i < pivot:
                 stack.append(i)
-            if i > pivot:
+            elif i > pivot:
                 stack1.append(i)
-            if i == pivot:
+            elif i == pivot:
                 stack3.append(i)
                 
         stack4 = stack+stack3+stack1
