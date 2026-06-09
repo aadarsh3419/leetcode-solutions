@@ -39,6 +39,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +236,7 @@
 | [0860-lemonade-change](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [2126-destroying-asteroids](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
