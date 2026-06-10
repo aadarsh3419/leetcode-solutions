@@ -286,6 +286,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -296,6 +297,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -314,6 +316,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -326,4 +329,8 @@
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
