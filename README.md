@@ -294,6 +294,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +325,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,4 +335,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
