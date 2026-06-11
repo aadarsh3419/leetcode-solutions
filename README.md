@@ -89,6 +89,7 @@
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +303,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +315,7 @@
 | [0113-path-sum-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
