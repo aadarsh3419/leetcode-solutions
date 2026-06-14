@@ -170,6 +170,7 @@
 | [0445-add-two-numbers-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0641-design-circular-deque](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -195,6 +196,7 @@
 | [0455-assign-cookies](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -208,6 +210,7 @@
 | [0445-add-two-numbers-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
