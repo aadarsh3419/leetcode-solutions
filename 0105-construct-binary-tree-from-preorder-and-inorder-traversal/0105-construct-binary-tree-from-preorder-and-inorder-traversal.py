@@ -10,19 +10,14 @@ class Solution:
         tree = {}
         for i in range(n):
             tree[inorder[i]] = i
-        def helper(pre_left,pre_right,in_left,in_right):
-            if pre_left > pre_right:
+        def helpe(where_p,end_p,where_i,end_i):
+            if where_p > end_p:
                 return None
-            root_val = preorder[pre_left]
-            idx = tree[root_val]
-            root = TreeNode(root_val)
-            left_size = idx - in_left
-
-            root.left = helper(pre_left+1,pre_left + left_size,in_left,idx-1)
-            root.right = helper(pre_left+left_size + 1,pre_right,idx+1,in_right)
-
+            value_root = preorder[where_p]
+            root = TreeNode(value_root)
+            idx  = tree[value_root]
+            size_of_left = idx - where_i
+            root.left = helpe(where_p+1,where_p+size_of_left,where_i,idx-1)
+            root.right =helpe(where_p+size_of_left+1,end_p,idx+1,end_i)
             return root
-        return helper(0,len(preorder)-1,0,n-1)
-            
-        
-
+        return helpe(0,len(preorder)-1,0,n-1)
