@@ -14,7 +14,5 @@ class Solution:
             prev = slow
             slow = slow.next
             fast = fast.next.next
-        
-        temp = slow.next
-        prev.next = temp
+        prev.next = slow.next
         return head
