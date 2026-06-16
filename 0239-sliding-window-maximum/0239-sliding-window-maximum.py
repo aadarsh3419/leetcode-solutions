@@ -11,8 +11,7 @@ class Solution:
                 queue.popleft()
             queue.append(i)
             if i >= k-1:
-                if queue:
-                    result.append(nums[queue[0]])
+                result.append(nums[queue[0]])
             
         return result 
             
