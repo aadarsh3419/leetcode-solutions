@@ -31,6 +31,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -236,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0641-design-circular-deque](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Number Theory
@@ -257,6 +259,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
@@ -390,8 +393,13 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
