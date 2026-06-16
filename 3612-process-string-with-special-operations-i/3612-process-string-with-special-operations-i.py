@@ -2,9 +2,9 @@ class Solution:
     def processStr(self, s: str) -> str:
         n = len(s)
         result = ""
-        graph = dict(zip(map(chr,range(95,123)),map(chr,range(95,123))))
+        
         for i in range(n):
-            if s[i] in graph:
+            if s[i].isalpha():
                 result += s[i]
             if s[i] == "*":
                 if result:
