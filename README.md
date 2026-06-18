@@ -128,6 +128,7 @@
 | [0169-majority-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -286,6 +287,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0647-palindromic-substrings](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -404,6 +406,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
