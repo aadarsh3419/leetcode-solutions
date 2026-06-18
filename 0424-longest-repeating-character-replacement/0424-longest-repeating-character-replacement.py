@@ -1,23 +1,33 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
+        n = len(s)
+        hashh = {}
+        window = 0
+        ans = 0
+        left = 0
+        right = 0
+        
+        while right<n:
+            
+            window = right - left +1
+            hashh[s[right]] = hashh.get(s[right],0)+1
+            maxx = max(hashh.values())
+            
+            
+            while window - maxx > k:
+                maxx = max(hashh.values())
+                window = right - left 
+               
+                hashh[s[left]]-=1
+                left+=1
+            ans = max(ans,window)
+            right+=1
+            
+                
+        return ans 
+ 
+             
+            
+
+
        
-       max_freq = 0
-       i = 0
-       answer = 0
-       count = {}
-       
-       max_freq = 0
-       for j in range(len(s)):
-        count [s[j]]  = count.get(s[j],0) + 1
-        max_freq = max(max_freq,count[s[j]])
-        
-        
-        if (j-i+1 )- max_freq > k:
-            count[s[i]]-=1
-            i+=1
-        answer = max(answer,j-i+1)
-
-       return answer
-        
-
-
