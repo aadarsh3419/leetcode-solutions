@@ -16,8 +16,8 @@ class Solution:
                 left+=1 
             else:
                 a.add(s[right])
-                if right == n-1: 
-                    maxx= max(maxx,right-left+1)
+                
+                maxx= max(maxx,right-left+1)
                 right+=1
         return maxx
             
