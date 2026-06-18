@@ -15,7 +15,6 @@ class Solution:
                     break
                 else:
                     a.add(s[j])
-                if j == n-1:
-                    maxx = max(maxx,j-i+1)
+                maxx = max(maxx,j-i+1)
                 j+=1
         return maxx
