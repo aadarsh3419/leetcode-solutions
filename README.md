@@ -46,6 +46,7 @@
 | [0941-valid-mountain-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2126-destroying-asteroids](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -316,6 +317,7 @@
 | [0238-product-of-array-except-self](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
