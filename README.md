@@ -121,6 +121,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
@@ -289,6 +290,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0076-minimum-window-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
@@ -409,6 +411,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
