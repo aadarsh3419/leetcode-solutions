@@ -200,6 +200,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -293,6 +294,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -427,4 +429,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
