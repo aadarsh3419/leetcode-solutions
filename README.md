@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -151,6 +152,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
@@ -199,6 +201,7 @@
 | [0011-container-with-most-water](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
