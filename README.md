@@ -47,6 +47,7 @@
 | [0739-daily-temperatures](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0941-valid-mountain-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -136,6 +137,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@
 | [0238-product-of-array-except-self](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
