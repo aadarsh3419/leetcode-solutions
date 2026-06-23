@@ -58,6 +58,7 @@
 | [2126-destroying-asteroids](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -147,6 +148,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,6 +454,7 @@
 | [0567-permutation-in-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0567-permutation-in-string/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
