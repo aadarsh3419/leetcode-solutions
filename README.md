@@ -18,6 +18,7 @@
 | [0045-jump-game-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -66,6 +67,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0231-power-of-two/) | Easy |
@@ -469,6 +471,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
