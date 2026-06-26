@@ -4,18 +4,25 @@
     #         self.val = val
     #         self.left = left
     #         self.right = right
-    
+from collections import deque
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
-        def dfs(node,remaining):
-            if node is None:
-                return False
-            remaining-=node.val
-            if node.left is None and node.right is None and remaining == 0:
-                return True
-            return dfs(node.left,remaining) or dfs(node.right,remaining)
-        return dfs(root,targetSum)
-       
-    
-
+        if root is None:
+            return False
+        targetSum -= root.val
+        queue = deque([(root,targetSum)])
+        while queue:
+            node,remaining = queue.popleft()
             
+            if node.left is None and node.right is None and remaining==0:
+                return True
+            if node.left:
+                lr = remaining-node.left.val
+                queue.append((node.left,lr))
+            if node.right:
+                rr=remaining-node.right.val
+                queue.append((node.right,rr))
+            
+        return False
+         
+
