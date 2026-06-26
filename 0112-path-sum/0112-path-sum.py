@@ -10,14 +10,12 @@ class Solution:
         def dfs(node,remaining):
             if node is None:
                 return False
-            remaining -= node.val
-            if not node.left and not node.right:
-                return remaining == 0
+            remaining-=node.val
+            if node.left is None and node.right is None and remaining == 0:
+                return True
             return dfs(node.left,remaining) or dfs(node.right,remaining)
         return dfs(root,targetSum)
-        
-        
-
+       
     
 
             
