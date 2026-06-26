@@ -391,6 +391,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
@@ -407,6 +408,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -438,6 +440,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
