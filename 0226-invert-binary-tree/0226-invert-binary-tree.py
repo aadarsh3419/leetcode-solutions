@@ -10,11 +10,10 @@ class Solution:
         def dfs(node):
             if node is None:
                 return 
-            
-            root = TreeNode(node.val)
-            root.left = dfs(node.right)
-            root.right = dfs(node.left)
-            return root
+            node.left,node.right = node.right,node.left
+            dfs(node.left)
+            dfs(node.right)
+            return node
         return dfs(root)
         
 
