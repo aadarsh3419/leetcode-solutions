@@ -17,6 +17,7 @@
 | [0042-trapping-rain-water](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
@@ -174,6 +175,7 @@
 | [0015-3sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
@@ -475,6 +477,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
