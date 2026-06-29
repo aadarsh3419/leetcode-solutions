@@ -10,11 +10,13 @@ class Solution:
                 return
             if i  == len(candidates):
                 return
+            #we first append the i in subset then minus it with target then recall it until 1 condtion hit abouve then we pop the last element and add the minus we do before undo the remaning then 
             subset.append(candidates[i])
-            remaining-=candidates[i]
-            dfs(i+1,subset,remaining)
+            
+            dfs(i+1,subset,remaining-candidates[i])
             subset.pop()
-            remaining+=candidates[i]
+            
+            #with this loop we skip the same element which is already used then increase the i call the recursion 
             next_i = i
             while next_i+1 < len(candidates) and candidates[next_i] == candidates[next_i+1]:
                 next_i+=1
