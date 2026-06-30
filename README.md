@@ -102,6 +102,7 @@
 | [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0647-palindromic-substrings](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
@@ -333,6 +334,7 @@
 | [0006-zigzag-conversion](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -487,6 +489,7 @@
 | [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
