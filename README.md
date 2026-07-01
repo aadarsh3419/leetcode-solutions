@@ -23,6 +23,7 @@
 | [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -338,6 +339,7 @@
 | [0006-zigzag-conversion](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
@@ -415,6 +417,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0100-same-tree/) | Easy |
@@ -499,6 +502,7 @@
 | [0046-permutations](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -517,6 +521,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
