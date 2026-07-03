@@ -436,6 +436,7 @@
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -453,6 +454,7 @@
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0841-keys-and-rooms](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,4 +541,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
