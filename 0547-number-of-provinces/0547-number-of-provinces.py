@@ -3,7 +3,7 @@ class Solution:
         visited = set()
         provision = 0
         def dfs(c):
-            nonlocal visited
+            
             visited.add(c)
             
             
