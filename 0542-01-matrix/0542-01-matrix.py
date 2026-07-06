@@ -7,25 +7,24 @@ class Solution:
                 if mat[i][j]==0:
                     matr[i][j] = 0
                     queue.append((i,j))
+        direction = [
+                    (-1,0),
+                    (1,0),
+                    (0,-1),
+                    (0,1)
+                    ]
         def bfs():
             while queue:
-                 
                 r,c = queue.popleft()
-                direction = [
-                        (r-1,c),
-                        (r+1,c),
-                        (r,c-1),
-                        (r,c+1)
-                    ]
-
                 for dr,dc in direction:
-                    if dr < 0 or dr >= len(mat) or dc < 0 or dc >= len(mat[0]):
+                    nr = r + dr
+                    nc = c + dc
+                    if nr < 0 or nr >= len(mat) or nc < 0 or nc >= len(mat[0]):
                         continue
-                    if mat[dr][dc] == 0:
-                        continue
-                    if mat[dr][dc] == 1:
-                        if matr[dr][dc] == -1:
-                            matr[dr][dc] = matr[r][c] +1
-                            queue.append((dr,dc))    
+                    
+                    if mat[nr][nc] == 1 and matr[nr][nc] == -1:
+                        
+                            matr[nr][nc] = matr[r][c] +1
+                            queue.append((nr,nc))    
         bfs()
         return matr
