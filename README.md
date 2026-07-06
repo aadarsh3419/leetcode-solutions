@@ -51,6 +51,7 @@
 | [0455-assign-cookies](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0542-01-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0641-design-circular-deque](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0641-design-circular-deque/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -110,6 +111,7 @@
 | [0131-palindrome-partitioning](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0338-counting-bits](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -453,6 +455,7 @@
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0542-01-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -533,6 +536,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
