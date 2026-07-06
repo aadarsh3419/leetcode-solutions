@@ -25,7 +25,7 @@ class Solution:
                         continue
                     if mat[dr][dc] == 1:
                         if matr[dr][dc] == -1:
-                            matr[dr][dc] = mat[dr][dc] + matr[r][c]   
+                            matr[dr][dc] = matr[r][c] +1
                             queue.append((dr,dc))    
         bfs()
         return matr
