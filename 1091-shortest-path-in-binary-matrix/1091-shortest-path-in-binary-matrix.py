@@ -5,7 +5,7 @@ class Solution:
         queue = deque()
         if grid[0][0] == 1 or grid[n-1][m-1] == 1:
             return -1
-        if len(grid) == 1 and len(grid[0]) == 1 and grid[0][0] == 0:
+        if n == 1 and  m == 1:
             return 1
         distance = 0
         queue.append((0,0))
@@ -43,10 +43,6 @@ class Solution:
                             grid[nr][nc] = -1
                     
                 distance+=1
-                
-        ans = bfs()
-        if ans == None:
             return -1
-        else:
-            return ans
-        
+                
+        return bfs()
