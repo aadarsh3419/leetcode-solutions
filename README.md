@@ -32,6 +32,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0136-single-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -433,6 +434,7 @@
 | [0110-balanced-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0130-surrounded-regions](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -453,6 +455,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
@@ -538,6 +541,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
+| [0130-surrounded-regions](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
@@ -547,6 +551,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
