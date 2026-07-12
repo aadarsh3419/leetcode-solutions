@@ -443,6 +443,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -466,6 +467,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0542-01-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -558,6 +560,7 @@
 | [0130-surrounded-regions](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
@@ -566,6 +569,7 @@
 | [0207-course-schedule](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
