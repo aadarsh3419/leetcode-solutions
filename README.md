@@ -26,6 +26,7 @@
 | [0078-subsets](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0090-subsets-ii/) | Medium |
@@ -184,6 +185,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
