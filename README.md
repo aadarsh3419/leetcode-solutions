@@ -128,6 +128,7 @@
 | [0002-add-two-numbers](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -189,6 +190,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
