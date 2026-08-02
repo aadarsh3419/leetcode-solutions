@@ -65,6 +65,7 @@
 | [0739-daily-temperatures](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0860-lemonade-change](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [0941-valid-mountain-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -123,6 +124,7 @@
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0647-palindromic-substrings/) | Medium |
+| [0877-stone-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@
 | [0509-fibonacci-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -623,4 +626,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
