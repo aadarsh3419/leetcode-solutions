@@ -86,6 +86,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -195,6 +196,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
