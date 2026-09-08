@@ -40,6 +40,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -212,6 +213,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -299,6 +301,7 @@
 | [0143-reorder-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
