@@ -5,15 +5,6 @@ class Solution:
         """
         n = len(nums)
         k = k%n
-        a = n-k
-        b = []
-        for i in range(a,n):
-            b.append(nums[i])
-        for i in range(0,a):
-            b.append(nums[i])
-        for i in range(n):
-            nums[i] = b[i]
-        return nums
-
-
-        
+        nums.reverse()
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
