@@ -21,6 +21,7 @@
 | [0045-jump-game-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0047-permutations-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -107,6 +108,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0148-sort-list](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
@@ -120,6 +122,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
