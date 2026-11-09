@@ -85,6 +85,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -377,6 +378,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/aadarsh3419/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1046-last-stone-weight](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -391,6 +393,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/aadarsh3419/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2126-destroying-asteroids/) | Medium |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/aadarsh3419/leetcode-solutions/tree/main/2530-maximal-score-after-applying-k-operations/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/aadarsh3419/leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
